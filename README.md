@@ -8,7 +8,8 @@ O conjunto de tecnologias empregadas no curso de Engenharia de Software, assim c
 
 # Análise
 
-O modelo conceitual das
-tecnologias classificadas por grupo segue abaixo.
+O problema pode ser definido como a constante atualização de informações sobre as tecnologias
+empregadas, conforme o modelo conceitual abaixo com a automática produção de uma visualização
+correspondente.
 
 <img src="https://github.com/kyriosdata/tecnologias/blob/main/imagens/modelo.png" width="100px">
