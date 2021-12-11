@@ -8,7 +8,7 @@ O conjunto de tecnologias empregadas no curso de Engenharia de Software, assim c
 
 # Análise
 
-Os dados pertinentes a um conjunto de tecnologias seguem modelados abaixo. Tem-se um
-tecnologias classificadas por grupo.
+O modelo conceitual das
+tecnologias classificadas por grupo segue abaixo.
 
 <img src="https://github.com/kyriosdata/tecnologias/blob/main/imagens/modelo.png" width="100px">
