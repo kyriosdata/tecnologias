@@ -1,0 +1,26 @@
+@startuml modelo
+hide circle
+hide methods
+hide empty members
+
+skinparam class {
+    BackgroundColor White
+    ArrowColor Black
+    BorderColor #505050
+}
+
+entity Grupo {
+    nome
+    descricao
+}
+
+entity Tecnologia {
+    nome
+    url
+    logomarca
+    descricao
+}
+
+Grupo ||..|{ Tecnologia
+
+@enduml
