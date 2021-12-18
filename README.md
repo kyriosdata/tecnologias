@@ -10,8 +10,10 @@ A estratégia atualmente empregada possui inconvenientes. O processo de atualiza
 
 # Análise
 
-O problema pode ser definido como a constante atualização de informações sobre as tecnologias
-empregadas, conforme o modelo conceitual abaixo com a automática produção de uma visualização
-correspondente.
+O problema pode ser definido como 
+
+> facilitar a constante atualização de informações sobre as tecnologias
+> empregadas com a automática produção de uma visualização
+> correspondente.
 
 <img src="https://github.com/kyriosdata/tecnologias/blob/main/imagens/modelo.png" width="100px">
