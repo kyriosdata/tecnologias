@@ -25,3 +25,11 @@ Os dados a serem atualizados estão modelados no diagrama abaixo.
 Observe que o modelo acima é suficiente para o registro tanto do conteúdo do documento 
 [PDF](https://ww2.inf.ufg.br/~fabio/terreno-ferramentas.pdf)
 quanto das [anotações](https://docs.google.com/document/d/1kiniQskETRJu6T3-n5gAvYfKyh11xKVsJ8FkqNSGW6g/edit#heading=h.uwtpzkmp9874).
+
+# Design 
+
+Uma das referências citadas para se manter atualizado, presente no documento de [anotações](https://docs.google.com/document/d/1kiniQskETRJu6T3-n5gAvYfKyh11xKVsJ8FkqNSGW6g/edit#heading=h.uwtpzkmp9874) é o famoso [radar](https://www.thoughtworks.com/radar)
+tecnológico mantido pela ThoughtWorks. Naturalmente este radar serve de inspiração para o _design_ da página
+desejada no presente trabalho. Adicionalmente, este radar permite que você construa o seu próprio a partir de 
+dados fornecidos em uma planilha. Consulte [Build Your Own Radar](https://radar.thoughtworks.com/) para detalhes. 
+
