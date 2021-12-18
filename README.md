@@ -10,10 +10,14 @@ A estratégia atualmente empregada possui inconvenientes. O processo de atualiza
 
 # Análise
 
-O problema pode ser definido como 
+### Problema
 
 > facilitar a constante atualização de informações sobre as tecnologias
 > empregadas com a automática produção de uma visualização
 > correspondente.
+
+### Dados
+
+Os dados a serem atualizados estão modelados no diagrama abaixo. 
 
 <img src="https://github.com/kyriosdata/tecnologias/blob/main/imagens/modelo.png" width="100px">
