@@ -21,3 +21,7 @@ A estratégia atualmente empregada possui inconvenientes. O processo de atualiza
 Os dados a serem atualizados estão modelados no diagrama abaixo. 
 
 <img src="https://github.com/kyriosdata/tecnologias/blob/main/imagens/modelo.png" width="100px">
+
+Observe que o modelo acima é suficiente para o registro tanto do conteúdo do documento 
+[PDF](https://ww2.inf.ufg.br/~fabio/terreno-ferramentas.pdf)
+quanto das [anotações](https://docs.google.com/document/d/1kiniQskETRJu6T3-n5gAvYfKyh11xKVsJ8FkqNSGW6g/edit#heading=h.uwtpzkmp9874).
